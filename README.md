@@ -13,3 +13,7 @@ pip install csv
 Extrae actualmente solo 3 tarifas de Iberdrola, incluyendo el término fijo y variable para almacenar posteriormente también la media del precio.
 
 Almacena la fecha del momento en que se ejecuta el script.
+
+Nombres: Alberto L. Mariscal Rivas / Elena Naranjo Segura
+
+Zenodo: https://zenodo.org/record/6438904#.YlSBk8hBw2x
